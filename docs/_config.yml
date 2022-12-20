@@ -64,7 +64,7 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "j8o3EFbWzyu8zIycfVW4QXYgv9j2KsBossOO6_YYpOg" # Replace this with your ID, or delete
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -91,7 +91,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : "UA-252463653-1" # Replace this with your ID, or delete
     anonymize_ip         : true
 
 
