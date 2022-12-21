@@ -13,6 +13,7 @@ main:
 
 sidebar-category:
   - title: "CS"
+    url: "/"
     children:
     - title: "CS면접"
       url: "/cs-interview"
