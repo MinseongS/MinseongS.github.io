@@ -10,3 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "CS"
+    children:
+    - title: "CS면접"
+      url: "/categories/CS-Interview"
+    - title: "운영체제"
+    #   url: "/"
+    - title: "네트워크"
+    #   url:  "/"
+    # - title: ""
+    #   url:  "/"
