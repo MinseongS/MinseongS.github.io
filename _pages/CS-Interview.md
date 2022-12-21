@@ -1,9 +1,10 @@
 ---
 title: "CS면접"
 layout: archive
-permalink: categories/CS-Interview
+permalink: /cs-interview
 author_profile: true
-sidebar: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 
