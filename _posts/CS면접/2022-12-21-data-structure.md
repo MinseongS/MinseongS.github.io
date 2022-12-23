@@ -1,15 +1,15 @@
 ---
-title:  "[면접] 자료구조"
+title:  "[CS면접] 자료구조"
 search: true
 categories: 
   - cs-interview
 last_modified_at: 2022-12-21
 toc: true
 toc_sticky: true
-toc_label: "[면접] 자료구조"
+toc_label: "[CS면접] 자료구조"
 ---
 
-## 2. 자료구조
+## 자료구조
 
 ### 스택, 큐, 트리, 힙 구조 설명
 - 스택: 세로로 된 바구니와 같은 구조로 먼저 넣게 되는 자료가 마지막으로 나오게 되는 First-In Last-Out(FILO) 구조이다.

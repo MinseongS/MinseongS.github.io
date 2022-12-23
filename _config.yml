@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "MinseongS"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "기술 블로그"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "깊이 있게 공부하기"
 #  location         : ""
   # email            : "subak0227@naver.com"
   links:
