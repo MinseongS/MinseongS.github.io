@@ -3,6 +3,9 @@ title:  "[CS면접] 자료구조"
 search: true
 categories: 
   - cs-interview
+tag:
+  - cs-interview
+  - data-structure
 last_modified_at: 2022-12-21
 toc: true
 toc_sticky: true

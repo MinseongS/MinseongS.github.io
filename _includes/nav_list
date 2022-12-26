@@ -5,7 +5,7 @@
   {% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
-  <li style="font-size:18px;"> 📁전체 글 수 ({{sum}})개 </li>
+  <li style="font-size:16px;"> 📁전체 글 수 ({{sum}})개 </li>
   <ul class="nav__items">
     {% for nav in navigation %}
       
@@ -13,7 +13,7 @@
         {% if nav.url %}
           <a href="{{ nav.url | relative_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
-          <span class="nav__sub-title" style="font-size:18px;">{{ nav.title }}</span>
+          <span class="nav__sub-title" style="font-size:16px;">{{ nav.title }}</span>
         {% endif %}
 
         {% if nav.children != null %}
@@ -32,7 +32,7 @@
               {% endif %}
             {% endfor %}
 
-            <li style="font-size:16px;"><a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }}({{ post_cnt }})</a></li>
+            <li style="font-size:14px;"><a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }}({{ post_cnt }})</a></li>
           {% endfor %}
           </ul>
         {% endif %}
