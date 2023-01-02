@@ -26,8 +26,8 @@ toc_label: "[CS면접] 자료구조"
 - Array는 한 번 할당된 크기가 고정되어 있는 반면, Dynamic Array는 데이터가 들어오면 resize를 통해 유동적으로 size를 조절하는 데이터 자료구조입니다.
 - Array와 유사하게 접근과 할당이 O(1)로 빠르고, append를 하면서 resize 하는 과정이 있기때문에 append의 시간복잡도는 amortized O(1)이라 부릅니다.
 - java 의 ArrayList, python의 List 가 Dynamic Array에 해당됩니다.
-  - java ArrayList : https://sabarada.tistory.com/63
-  - python List : https://seoyeonhwng.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0-f04847b58286
+  - [java ArrayList](https://sabarada.tistory.com/63)
+  - [python List](https://seoyeonhwng.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0-f04847b58286)
 
 
 ## LinkedList
